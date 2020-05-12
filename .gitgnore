@@ -1,4 +1,4 @@
-/pychache/
+/pycache/
 *.pyc
-/flask-blog-venv
+/flask-blog-venv/
 
